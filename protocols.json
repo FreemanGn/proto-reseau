@@ -11,7 +11,7 @@
             "name": "FTP",
             "port": 21,
             "details": "File Transfer Protocol",
-            "type":"application"
+            "type":"application",
             "description":" Protocol de transfert de fichier"
         }
     ]
